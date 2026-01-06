@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('code 1 (x)');
+console.log('code 2 (x)');
